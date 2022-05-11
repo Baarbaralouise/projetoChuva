@@ -1,5 +1,5 @@
 /*
-    GERAL ↴
+    GERAL 
 */
 
 * {
@@ -56,7 +56,7 @@
    }
    
    /* 
-       ÁREA LOGO ↴
+       ÁREA LOGO 
    */
    
    .area-menu {
@@ -117,7 +117,7 @@
    }
    
    /* 
-       ÁREA CONTEÚDO TOPO ↴
+       ÁREA CONTEÚDO TOPO 
    */
    
    .area-conteudo {
@@ -148,7 +148,7 @@
    }
    
    /* 
-       ÁREA BOAS VINDAS ↴
+       ÁREA BOAS VINDAS 
    */
    
    .icones-topo {
@@ -229,7 +229,7 @@
    }
    
    /* 
-       ÁREA APRESENTAÇÃO ↴
+       ÁREA APRESENTAÇÃO 
    */
    
    .area-trabalhos {
@@ -252,7 +252,7 @@
    }
    
    /* 
-       ÁREA DETALHES DA APRESENTAÇÃO ↴
+       ÁREA DETALHES DA APRESENTAÇÃO 
    */
    
    .icones-detalhes {
@@ -337,7 +337,7 @@
    }
    
    /*
-       ÁREA RESUMO ↴
+       ÁREA RESUMO 
    */
    
    .resumo, .discussoes {
@@ -371,7 +371,7 @@
    }
    
    /*
-       ÁREA DISCUSSÕES ↴
+       ÁREA DISCUSSÕES 
    */
    
    .escrever-discussao {
@@ -513,7 +513,7 @@
    }
    
    /*
-       ÁREA DISCUSSÕES USUÁRIO ↴
+       ÁREA DISCUSSÕES USUÁRIO 
    */
    
    .area-usuario {
@@ -587,7 +587,7 @@
    }
    
    /*
-       ÁREA DISCUSSÃO USUÁRIO RESPOSTAS ↴
+       ÁREA DISCUSSÃO USUÁRIO RESPOSTAS 
    */
    
    .container-respostas1, .container-respostas2 {
@@ -647,7 +647,7 @@
    }
    
    /* 
-       ÁREA TÓPICO ENVIADO ↴
+       ÁREA TÓPICO ENVIADO 
    */
    
    .container-topico-enviado {
@@ -698,7 +698,7 @@
    }
    
    /*
-       ÁREA SOLICITAÇÃO DE ANALISE ↴
+       ÁREA SOLICITAÇÃO DE ANALISE 
    */
    
    .topico-enviado-usuario {
@@ -739,7 +739,7 @@
    }
    
    /*
-       ÁREA FOOTER ↴
+       ÁREA FOOTER 
    */
    
    footer {
@@ -752,12 +752,12 @@
    }
    
    /*
-       ÁREA RESPONSIVIDADE MOBILE ↴
+       ÁREA RESPONSIVIDADE MOBILE 
    */ 
    
    @media (min-width: 320px) and (max-width: 425px) {
        /* 
-           ÁREA LOGO ↴
+           ÁREA LOGO 
        */
    
        .logo-foto img {
@@ -770,7 +770,7 @@
        }
    
        /* 
-           ÁREA TOPO ↴
+           ÁREA TOPO 
        */
    
        .area-topo {
@@ -791,7 +791,7 @@
        }
    
        /*
-           ÁREA APRESENTAÇÃO ↴
+           ÁREA APRESENTAÇÃO 
        */
    
        .area-trabalhos {
@@ -819,7 +819,7 @@
        }
    
        /*
-           ÁREA DISCUSSÃO ↴
+           ÁREA DISCUSSÃO 
        */
    
        .titulo-discussoes {
@@ -827,7 +827,7 @@
        }
    
        /*
-           ÁREA TÓPICO USUÁRIO ↴
+           ÁREA TÓPICO USUÁRIO 
        */
    
        .assunto {
@@ -844,7 +844,7 @@
        }
    
        /*
-           ÁREA FOOTER ↴
+           ÁREA FOOTER 
        */
    
        footer img {
@@ -853,13 +853,13 @@
    }
    
    /*
-       ÁREA RESPONSIVIDADE TABLET ↴
+       ÁREA RESPONSIVIDADE TABLET 
    */ 
    
    @media (min-width: 426px) and (max-width: 768px) {
        
        /*
-           ÁREA LOGO ↴
+           ÁREA LOGO 
        */
    
        .apresentacao img {
@@ -868,7 +868,7 @@
        }
    
        /*
-           ÁREA TOPO ↴
+           ÁREA TOPO 
        */
    
        .area-topo {
@@ -893,7 +893,7 @@
        }
    
        /*
-           ÁREA APRESENTAÇÃO ↴
+           ÁREA APRESENTAÇÃO 
        */
    
        .apresentacao {
@@ -916,7 +916,7 @@
        }
    
        /*
-           ÁREA DISCUSSÃO ↴
+           ÁREA DISCUSSÃO 
        */
    
        .titulo-discussoes {
@@ -924,7 +924,7 @@
        }
    
        /*
-           ÁREA TÓPICO USUÁRIO ↴
+           ÁREA TÓPICO USUÁRIO 
        */
    
        .assunto {
@@ -941,7 +941,7 @@
        }
    
        /*
-           ÁREA FOOTER ↴
+           ÁREA FOOTER 
        */
    
        footer img {
